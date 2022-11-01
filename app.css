@@ -22,7 +22,7 @@ nav ul a{
     padding:20px;
     text-decoration: none;
     color:#000;
-    transition:0.2s ease-in;
+    transition:0.5s ease-in;
     font-size:18px;
 }
 nav ul a:hover{
@@ -64,7 +64,7 @@ nav ul a:hover{
     font-size:20px;
     display:block;
     margin:0 auto;
-    transition:0.2s all;
+    transition:0.5s all;
 }
 .item button:hover{
     transform:scale(1.04);
