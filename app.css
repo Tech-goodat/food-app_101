@@ -41,7 +41,7 @@ nav ul a:hover{
     height:300px;
     object-fit:cover;
     cursor:pointer;
-    transition:2s ease;
+    transition:0.8s ease;
     border:none;
     outline:none;
     border-radius:10px;
